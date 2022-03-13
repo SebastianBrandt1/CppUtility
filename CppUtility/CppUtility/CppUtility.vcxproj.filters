@@ -13,10 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\objects">
+      <UniqueIdentifier>{5a81c7d0-d8aa-4802-864c-f3598e0893f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utl">
+      <UniqueIdentifier>{30c916ca-df38-4d4f-806c-1cf8849bd15e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CppUtility.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="utl\ProcessUtiltiy.cpp">
+      <Filter>Source Files\utl</Filter>
+    </ClCompile>
+    <ClCompile Include="objects\TestObject.cpp">
+      <Filter>Source Files\objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utl\ProcessUtility.h">
+      <Filter>Source Files\utl</Filter>
+    </ClInclude>
+    <ClInclude Include="objects\TestObject.h">
+      <Filter>Source Files\objects</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

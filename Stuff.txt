@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/63166/how-to-determine-cpu-and-memory-consumption-from-inside-a-process
+https://www.youtube.com/watch?v=qiD39bB7DvA&list=PLKO28_U4vgy_QYAeILSdScKogcYHCKKSR&index=11&t=619s
+https://www.youtube.com/watch?v=dZr-53LAlOw&list=PLKO28_U4vgy_QYAeILSdScKogcYHCKKSR&index=5&t=350s
+https://www.youtube.com/watch?v=Os5cK0H8EOA&list=PLKO28_U4vgy_QYAeILSdScKogcYHCKKSR&index=3
+https://www.youtube.com/watch?v=xlAH4dbMVnU&list=PLKO28_U4vgy_QYAeILSdScKogcYHCKKSR&index=2
+
+
+https://slack.engineering/chrome-tracing-for-fun-and-profit/
+https://aras-p.info/blog/2017/01/23/Chrome-Tracing-as-Profiler-Frontend/
+https://www.html5rocks.com/en/tutorials/games/abouttracing/
+
+https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview#heading=h.yr4qxyxotyw
